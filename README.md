@@ -8,4 +8,4 @@
 
 
 *Recomendação colocar disco c:\ o projeto Prompt-Win10.zip porque o patch para o ícone do atalho está em:
-c:\Prompt-Win10*
+- ex: c:\Prompt-Win10*
