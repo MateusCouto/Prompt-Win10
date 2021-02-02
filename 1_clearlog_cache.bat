@@ -39,4 +39,4 @@ ipconfig/flushDNS
 echo "start Chrome HTTP"
 start chrome https://login.hilab.com.br/
 
-PAUSE
+cscript api.vbs "Logs do Windows, Google Chrome e Firefox."
