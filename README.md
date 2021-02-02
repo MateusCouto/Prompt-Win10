@@ -7,5 +7,5 @@
 - Desativar Proteção de Tela  
 
 
-*Recomendação colocar os arquivos descompactados no disco c:\ porque o patch ara o ícone do atalho está em:
+*Recomendação colocar disco c:\ o projeto Prompt-Win10.zip porque o patch para o ícone do atalho está em:
 c:\Prompt-Win10*
