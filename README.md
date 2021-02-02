@@ -1,0 +1,1 @@
+Desativar Proteção de Tela  
