@@ -8,7 +8,7 @@
 
 
 *Recomendação colocar disco c:\ o projeto Prompt-Win10.zip porque o patch para o ícone do atalho está em:*
-- ex: c:\Prompt-Win10
+- ex: c:\Prompt-Win10<br /><br />
 
 
 **Para instalar o Git no Windows.**<br /> 
