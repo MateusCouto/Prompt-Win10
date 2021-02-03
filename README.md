@@ -11,7 +11,7 @@
 - ex: c:\Prompt-Win10
 
 
-**Para instalar o Git no Windows.** 
+**Para instalar o Git no Windows.**<br /> 
 *Download: https://git-scm.com/download/win*
 
 git clone https://github.com/MateusCouto/Prompt-Win10.git
